@@ -1,0 +1,10 @@
+.titulo-espaciado {
+    margin-top: 30px;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+* {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+}
